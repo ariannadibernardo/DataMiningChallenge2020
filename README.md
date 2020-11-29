@@ -1,4 +1,4 @@
-# DataMiningChallenge20202
+# DataMiningChallenge2020
 Determine the gender of Reddit authors using their comments
 
 (https://www.kaggle.com/c/datamining2020/overview/evaluation)
